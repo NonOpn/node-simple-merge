@@ -1,0 +1,16 @@
+{
+  "name": "node-simple-merger",
+  "version": "0.0.1",
+  "description": "Simple merger for objects",
+  "main": "dist/lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kévin Le Perf",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^12.12.12",
+    "dotenv": "^4.0.0"
+  }
+}
